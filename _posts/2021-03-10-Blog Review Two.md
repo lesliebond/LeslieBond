@@ -32,4 +32,10 @@ Each of the pages on the website consists of a variety of very high-quality digi
 
 *Further works by van Eyck* brings the viewer to a beautifully done, digital map of Europe and the eastern United States. A large selection of van Eyck’s paintings are pinned to the map with red dots, which shows each of the paintings’ locations, and when clicked on, brings the viewer to background information on the location and restoration of that specific painting. The map is both easy to read and visually appealing; however, when trying to navigate around the map, it becomes confusing. For example, if you try to zoom in the paintings do not move, so you have to carefully track which line connects to the painting you are looking at. 
 
-There is another section that allows the viewer to view the art on a digital “wall” if they choose. This tool is interesting because the paintings are scaled so that they can be compared in actual size. While this is convenient if you are just browsing the art, it does make it difficult to see the art clearly because many of them are small in size. 
+There is another section that allows the viewer to view the art on a digital “wall” if they choose. This tool is interesting because the paintings are scaled so that they can be compared in actual size. While this is convenient if you are just browsing the art, it does make it difficult to see the art clearly because many of them are small in size.
+
+![MapandWall](https://lesliebond.github.io/LeslieBond/images/R2mapandwall.png)
+
+Despite extensive detail on the physical restoration process of the art, there is little information given beyond the name of the painting, when it was painted, and the restoration process. It would be useful to know the background of the art, such as where and why it was painted, who commissioned it, or any other interesting facts about it. 
+
+Overall, *Closer to Van Eyck* is very well-organized and easy-to-use, making it an incredibly well-done DH project. It details the process of restoration and contains beautiful, high-quality digital copies of Jan van Eyck’s art, which is organized into appropriate sections and easily comparable. As an ongoing project, it is certain to help maintain the cultural heritage and history of Belgium and Jan van Eyck’s art. 
