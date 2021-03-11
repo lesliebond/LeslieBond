@@ -8,7 +8,7 @@
 **Reviewer:** Leslie Bond
 
 ___
-# Closet to Van Eyck 
+# Closer to Van Eyck 
 
 ![Homepage](https://lesliebond.github.io/LeslieBond/images/R2homepage.png)
 
