@@ -37,5 +37,4 @@ There is another section that allows the viewer to view the art on a digital “
 ![MapandWall](https://lesliebond.github.io/LeslieBond/images/R2mapandwall.png)
 
 Despite extensive detail on the physical restoration process of the art, there is little information given beyond the name of the painting, when it was painted, and the restoration process. It would be useful to know the background of the art, such as where and why it was painted, who commissioned it, or any other interesting facts about it. 
-
-Overall, *Closer to Van Eyck* is very well-organized and easy-to-use, making it an incredibly well-done DH project. It details the process of restoration and contains beautiful, high-quality digital copies of Jan van Eyck’s art, which is organized into appropriate sections and easily comparable. As an ongoing project, it is certain to help maintain the cultural heritage and history of Belgium and Jan van Eyck’s art. 
+Overall, however, *Closer to Van Eyck* is very well-organized and easy-to-use, making it an incredibly well-done DH project. It details the process of restoration and contains beautiful, high-quality digital copies of Jan van Eyck’s art, which is organized into appropriate sections and easily comparable. As an ongoing project, it is certain to help maintain the cultural heritage and history of Belgium and Jan van Eyck’s art. 
