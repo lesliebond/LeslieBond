@@ -21,3 +21,10 @@ The digital humanities (DH) project, *Closer to Van Eyck*, explores an extensive
 
 ## Design
 The practical design of *Closer to Van Eyck* makes it extremely user friendly, and it functions nearly just as well on a mobile device as it does on a desktop website. The home page is visually appealing to the eye, containing different paintings and cropped images painted van Eyck alternating in a sideshow. There are two main pages when the user is brought to the homepage (*The Ghent Altarpiece Restored* and *Further Works by Van Eyck*). If you click on the slideshow, two text-boxes pop-up, explaining what each page contains. While this is a helpful feature, I only found it by randomly clicking; it would be more straightforward if it was a permanent fixture on the homepage. 
+
+![Homepage](https://lesliebond.github.io/LeslieBond/images/R2homepage2.png)
+
+Each of the pages on the website consists of a variety of very high-quality digital images of van Eyck’s paintings, and it is easy to zoom in and out in order to study them in more detail. Both pages also contain a side navigation bar that detail the restoration of the paintings: *Macrophotography, Infrared macrophotograph, Infrared reflectography*, and *X-radiography.* 
+
+*The Ghent Altarpiece Restored* page is very straightforward as well, bringing the viewer to a digital version of the Ghent Altarpiece. From there, you can easily alternate throughout three sections (*Before, During*, and *After Restoration*) to compare the pieces throughout the process. Each individual painting is also clickable to be able to see it in more detail and compare different stages of the restoration side-by-side. 
+
