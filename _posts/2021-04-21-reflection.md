@@ -9,4 +9,14 @@ The process of writing the grant proposal for *Digital Frankenstein* has not onl
 
 There are other digital humanities projects that exist, such as *A Frankenstein Atlas* and *Frankenstein by Mary Shelley, A Romantic Circles Electronic Edition*. *A Frankenstein Atlas* focuses specifically on the geographical details and journey throughout *Frankenstein*, and *Frankenstein by Mary Shelley, A Romantic Circles Electronic Edition* created digital access to the classic novel and conveniently offered readers the full contents of both the 1818 and 1831 editions. While these projects were well done, they do not offer the same level of interactive information that *Digital Frankenstein* would, as the goal of the project is to provide its scholars and readers with a more immersive Frankenstein experience.  
 
+***
+
+# Digital Humanities 
+## Digital Humanities – A Definition
+	At the beginning of the semester, “Digital Humanities” (DH) prompted many different thoughts – Intimidation mostly, among other things.  As the semester draws to a close, however, this class has revealed DH to be something entirely different. Certainly, there are intimidating features, but like any other field, you can learn and improve in it. When asked to form a definition of DH a few months ago, I hardly knew where to begin. While I do not believe that there is a truly concrete definition available, I certainly have a better understanding of the field as a whole.
+  
+  > *Digital Humanities* – The use of electronic technology, social networking, and other digital methods to educate, communicate, innovate, and further the understanding of  the traditional humanities fields (literature, philosophy, the arts, history, etc.)
+
+## Takeaways
+Overall, the course has offered lots of new information and new perspectives on scholarly and professional writing. The collection of reading supplements over the semester were helpful in introducing new information and offering beneficial tips. Our assignments over the semester, despite some of them proving to be frustrating, were overall very useful in learning more about DH and furthering our writing skills. The assignment that I had the most difficulty with was actually the first blog post, and it was due to figuring out the new technological aspects of GitHub and blog creation; although, the TEI Code project deserves an honorable mention for being initially intimidating.
 
