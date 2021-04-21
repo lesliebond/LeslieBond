@@ -20,3 +20,7 @@ At the beginning of the semester, “Digital Humanities” (DH) prompted many di
 ## Takeaways
 Overall, the course has offered lots of new information and new perspectives on scholarly and professional writing. The collection of reading supplements over the semester were helpful in introducing new information and offering beneficial tips. Our assignments over the semester, despite some of them proving to be frustrating, were overall very useful in learning more about DH and furthering our writing skills. The assignment that I had the most difficulty with was actually the first blog post, and it was due to figuring out the new technological aspects of GitHub and blog creation; although, the TEI Code project deserves an honorable mention for being initially intimidating.
 
+**Writing for the Digital Humanities** has offered me the opportunity to further not only my writing skills, but my reading efficiency and analytical abilities as well. While the class has not been without its own complications and difficulties, it has certainly been a positive experience. 
+
+
+
